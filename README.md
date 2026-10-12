@@ -1,4 +1,4 @@
-# manubotinagabhushana71-cmyk-she-her
+# manubotinagabhushana71-cmyk
 # 💫 About Me:
 🔭"Building my skills in Manual & Automation<br>Testing through a structured QA training program"<br><br>👯"Beginner-friendly testing projects — manual<br>test case writing, bug reporting, or Selenium automation practice"<br><br>🌱 "Software Testing (Manual + Selenium),<br>STLC, SDLC, API Testing with Postman, and Java fundamentals"<br><br>💬"Manual Testing, STLC, Bug Life Cycle,<br>or my transition into QA"<br><br>⚡I can debug a test case faster<br>than I can debug my own sleep schedule 😄
 
